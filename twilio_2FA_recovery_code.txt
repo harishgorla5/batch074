@@ -1,1 +1,2 @@
 GPBPNMZ7LU152TPP6R6UGN3E
+this is the text file , i dont want to commit this file . 
